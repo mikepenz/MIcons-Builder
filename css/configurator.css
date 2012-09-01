@@ -1,0 +1,80 @@
+@import url('reset.css');
+
+/* General Codrops Demo Style */
+body{
+	background: #f8f8f8 url(../images/bg.jpg) repeat top left;
+	color:#222;
+	font-family:"Merienda One", Georgia, "Times New Roman", serif;
+	font-size:12px;
+}
+a{
+	color:#000;
+	text-decoration:none;
+}
+.clr{
+	clear:both;
+}
+
+
+.more{
+	position:relative;
+	clear:both;
+}
+.more p{
+	color:#8f0630;
+	font-size:16px;
+}
+.more ul{
+	display:block;
+	text-align:center;
+}
+.more ul li{
+	display:inline;
+	padding:2px;
+	line-height:30px;
+}
+.more ul li.selected a,
+.more ul li.selected a:hover{
+	background:#690322;
+	color:#fff;
+	text-shadow:none;
+}
+.more ul li a{
+	text-shadow:1px 1px 1px #fff;
+	color:#333;
+	background:#fff;
+	padding:3px 6px;
+	white-space:nowrap;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+.more ul li a:hover{
+	background:#8f0630;
+	color:#fff;
+	text-shadow:none;
+}
+.column{
+	width:48%;
+	float:left;
+	padding:1%;
+}
+@media screen and (max-width: 640px) {
+	.header{
+		text-align:center;
+	}
+	.header a{
+		font-size:10px;
+		text-shadow:none;
+		white-space:nowrap;
+	}
+	.header span.right_ab{
+		float:none;
+	}
+	h1{
+		font-size:40px;
+	}
+	h1 span{
+		font-size:16px;
+	}
+}
