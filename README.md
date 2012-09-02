@@ -42,6 +42,9 @@ http://mikepenz.bplaced.net/miconsBuilder/
 ## License
 Copyright (c) 2012 [Mike Penz] 
 
+### Only rule
+#### IT IS NOT ALLOWED DELETE THE CREDITS LINE!
+
 <http://penz.tundem.com> - <https://twitter.com/#!/mike_penz> - <https://plus.google.com/u/0/102816248419100947174/posts>
 	   
 
