@@ -81,7 +81,7 @@
 	    <div class="container">
 			<footer>
 				<h2>Credits</h2>
-			    <h3>I've to say thanks for the great css ressources from <a href="http://tympanus.net/codrops/">codrops.com</a> and <a href="http://livetools.uiparade.com/">uiparade.com</a>, without them this site wouldn't look that good.</h3>
+			    <h3>Thanks for the great css ressources from <a href="http://tympanus.net/codrops/">codrops.com</a> and <a href="http://livetools.uiparade.com/">uiparade.com</a>, without them this site wouldn't look that good.</h3>
 			    <h3>The rest of this script is made by Mike Penz. You can find more of his work here: <a href="http://penz.tundem.com">His portfolio.</a></h3>
 			</footer>
 		</div>
